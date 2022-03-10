@@ -10,7 +10,7 @@ I ran into numerous issues when trying to print the standard LucidVR 4.0 and 4.1
 
 ### Tensioner and Cover
 
-This part replaces "Tensioner_GreenPot.STL" and "SpoolCover_open.STL"
+This part replaces "Tensioner_WLPot" and "SpoolCover_open.STL"
 
 When I tried to print those designs the snap interface would get distorted and the nozzle of my older printer would hit the part itself, causing it to distort or break free from the print bed. The snap interface itself was also thin and fragile and it seemed unnecessary to have it separated into two parts.
 
@@ -20,7 +20,7 @@ This design integrates the cover into the tensioner and just requires the "Hapti
 
 ### New slide mount 
 
-This part replaces "GreenPotSLideHolder_Proto4.1.STL" (and previous versions). It fits the Tensioner and Cover in this repo and uses less filament
+This part replaces "WLPotSLideHolder_Proto4.1.STL" (and previous versions). It fits the Tensioner and Cover in this repo and uses less filament
 
 <img src="screenshots/assembly.jpg" alt="Slide mount assembly" width="600"/>
 
